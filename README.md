@@ -1,10 +1,10 @@
 ![html e css praticando html e css](https://user-images.githubusercontent.com/125808109/221028808-4d42d89c-9f52-4a56-8267-123a9117a34c.png)
 
 <h1 align="center"> Pagina Alura Plus</h1>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 ![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 # :clipboard: Descrição do Projeto
