@@ -1,11 +1,14 @@
 <h1 align="center"> Pagina Alura Plus</h1>
 <p align="center">
-!<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 # Descrição do Projeto
 
-<p align="justify">Pagina da web criada durante o curso de HTML e CSS da alura. Uma pagina mostrando as vantagens do Alura Combo+, contando com botões para comprar o serviço. </p>
+<p align="justify">Projeto Final do Curso Praticando HTML e CSS da Alura, uma pagina mostrando as Vantagens do Alura Plus. </p>
+
+# :eyes: Demostração 
+!https://pasteboard.co/JkDU2VohM38z.png
 
 # :hammer: Funcionalidades do projeto
 
