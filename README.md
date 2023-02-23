@@ -8,7 +8,7 @@
 <p align="justify">Projeto Final do Curso Praticando HTML e CSS da Alura, uma pagina mostrando as Vantagens do Alura Plus. </p>
 
 # :eyes: Demostração 
-<img src="https://pasteboard.co/JkDU2VohM38z.png"/>
+<img src="[https://pasteboard.co/JkDU2VohM38z.png](https://pasteboard.co/JkDU2VohM38z.png)"/>
 
 # :hammer: Funcionalidades do projeto
 
