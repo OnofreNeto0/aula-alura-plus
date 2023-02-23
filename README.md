@@ -8,7 +8,7 @@
 <p align="justify">Projeto Final do Curso Praticando HTML e CSS da Alura, uma pagina mostrando as Vantagens do Alura Plus. </p>
 
 # :eyes: Demostração 
-<img src="https://pasteboard.co/JkDU2VohM38z.png](https://pasteboard.co/JkDU2VohM38z.png)"/>
+![Combo+ Alura Plus](https://pasteboard.co/JkDU2VohM38z.png](https://pasteboard.co/JkDU2VohM38z.png)
 
 # :hammer: Funcionalidades do projeto
 
@@ -17,5 +17,7 @@
 
 # :heavy_check_mark: Tecnologias utilizadas
 
-- `HTML`
-- `CSS`
+<ul>
+  <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a></li>
+  <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a></li>
+</ul>
