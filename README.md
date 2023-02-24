@@ -32,11 +32,11 @@ https://onofreneto0.github.io/aula-alura-plus/
 
 # :pencil2: Autor
 
-![Camisa Florida preto e branco_redimencionada 200](https://user-images.githubusercontent.com/125808109/221282270-380e86da-cebb-4046-b16a-5c3d0d2b8fc2.png)
+![Camisa Florida preto e branco_redimencionada 100](https://user-images.githubusercontent.com/125808109/221282522-fb78bf16-8f50-4052-92a4-923d53a991f4.png)
 
 <br>
-<sub><b>Onofre Gonçalves</b></sub>
+<h4>Onofre Gonçalves</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Onofre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onofre-goncalves)](https://www.linkedin.com/in/onofre-goncalves)
+[![Linkedin Badge](https://img.shields.io/badge/-Onofre Goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onofre-goncalves)](https://www.linkedin.com/in/onofre-goncalves)
 [![Gmail Badge](https://img.shields.io/badge/-neto.zipp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neto.zipp@gmail.com)](mailto:neto.zipp@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ntgoncalves_/)](https://www.instagram.com/ntgoncalves_/)
