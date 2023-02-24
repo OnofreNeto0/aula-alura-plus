@@ -36,6 +36,6 @@ https://onofreneto0.github.io/aula-alura-plus/
 
 <h4>Onofre Gonçalves</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Onofre-Goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onofre-goncalves)](https://www.linkedin.com/in/onofre-goncalves)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onofre-goncalves)](https://www.linkedin.com/in/onofre-goncalves)
 [![Gmail Badge](https://img.shields.io/badge/-neto.zipp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neto.zipp@gmail.com)](mailto:neto.zipp@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ntgoncalves_/)](https://www.instagram.com/ntgoncalves_/)
