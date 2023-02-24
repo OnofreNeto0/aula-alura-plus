@@ -34,7 +34,7 @@ https://onofreneto0.github.io/aula-alura-plus/
 
 <a href="https://github.com/OnofreNeto0">
 
-![Camisa Florida preto e branco_redimencionada 100](https://user-images.githubusercontent.com/125808109/221284443-74ec5f17-a388-4fd0-ad0a-1bd74edede39.png)
+![Frente preto e branco Fundo azul_resized](https://user-images.githubusercontent.com/125808109/221284682-26fb4dc9-b064-497c-9db9-34a7d5623d62.png)
  <br />
  <sub><b>Onofre Gonçalves</b></sub></a>
 
