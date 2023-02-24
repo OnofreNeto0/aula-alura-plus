@@ -34,7 +34,7 @@ https://onofreneto0.github.io/aula-alura-plus/
 
 <a href="https://github.com/OnofreNeto0">
 
-  ![Frente camiseta roxa fundo Azul_resized](https://user-images.githubusercontent.com/125808109/221284916-e43daf06-16a7-4f68-82d2-e69244b9e437.png)
+  ![camisa florida preto e branco fundo roxo_resized](https://user-images.githubusercontent.com/125808109/221285153-14ad2d68-f013-4280-a536-7a13591dc98f.png)
  <br />
  <sub><b>Onofre Gonçalves</b></sub></a>
 
